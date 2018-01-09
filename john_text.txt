@@ -1,1 +1,2 @@
-dding anaother line to this file without knowing that John made changes and trying to push it remote repoo
+Adding anaother line to this file without knowing that John made changes and trying to push it remote repoo
+Adding cahnges to john text 
